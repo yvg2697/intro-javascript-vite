@@ -4,7 +4,7 @@ const saludar = function (nombre) {
 console.log(saludar('Goku'));
 
 // funciones flechas 
-/// variable + numeros de argumentos y => y parentesis si se devuelve un objeto implicito
+/// variable = numeros de argumentos y => y parentesis si se devuelve un objeto implicito
 const saludar2 = (nombre) => {
     return `Hola, ${nombre}`;
 }
